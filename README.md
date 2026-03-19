@@ -103,6 +103,7 @@ speed up the process.
 - Jörn Zaefferer (Software Engineer)
 - Claudius Coenen (Software Developer, Professor)
 - Ben Vinnerd (Javascript/Typescript Developer)
+- Brandon Berg (Systems Engineer)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
 [1]: https://github.com/nodejs/node/pull/61478
