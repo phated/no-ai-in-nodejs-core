@@ -118,6 +118,7 @@ speed up the process.
 - Edward Loveall (Software Developer)
 - Diogo Goncalves Silva (Software Engineer)
 - Johan Alkstål (Software Developer)
+- Jēkabs Milbrets (Web Developer)
 - Ajeet Pratap Singh (Open Source Developer)
 - Shivam Veer (Software Engineer / DIYer)
 
