@@ -145,6 +145,7 @@ speed up the process.
 - Niels Roesen Abildgaard (Staff Software Consultant)
 - Jocelyn Badgley (Software Engineer)
 - Daniel Fortes (Software Developer)
+- Neil Craig (Technical Architect, used Node since 0.13)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
 [1]: https://github.com/nodejs/node/pull/61478
